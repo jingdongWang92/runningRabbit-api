@@ -1,8 +1,7 @@
-*.class
+WebContent/WEB-INF/classes
 .project
 .classpath
 .settings/
-!build/WEB-INF/classes/com/
 # Package Files #
 *.jar
 *.war
