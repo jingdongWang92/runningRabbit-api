@@ -1,4 +1,3 @@
-.settings/   # 忽略.setting目录 #
 *.class     # 忽略所有class文件 #
 .project
 .classpath
