@@ -3,6 +3,5 @@ WebContent/WEB-INF/classes
 .classpath
 .settings/
 # Package Files #
-*.jar
 *.war
 *.ear
