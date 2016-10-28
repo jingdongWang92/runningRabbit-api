@@ -1,6 +1,7 @@
-*.class     # 忽略所有class文件 #
+*.class
 .project
 .classpath
+.settings/
 # Package Files #
 *.jar
 *.war
